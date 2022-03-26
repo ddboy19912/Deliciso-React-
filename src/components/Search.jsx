@@ -49,6 +49,6 @@ svg{
     color: white;
 }
 
-`
+`;
 
 export default Search
